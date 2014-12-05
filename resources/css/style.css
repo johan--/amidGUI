@@ -1,0 +1,72 @@
+.wrap .x-grid-cell-inner {
+	white-space: normal;
+}
+
+.ux-mongorangemenu-gt {
+	background-image: url(../images/Greater.png) !important;
+}
+
+.ux-mongorangemenu-lt {
+	background-image: url(../images/Less.png) !important;
+}
+
+.ux-mongorangemenu-eq {
+	background-image: url(../images/Equals.png) !important;
+}
+
+.ux-mongorangemenu-gte {
+	background-image: url(../images/GreaterOrEqual.png) !important;
+}
+
+.ux-mongorangemenu-lte {
+	background-image: url(../images/LessOrEqual.png) !important;
+}
+
+.ux-mongorangemenu-ne {
+	background-image: url(../images/DoesNotEqual.png) !important;
+}
+
+.ux-mongorangemenu-regex {
+	background-image: url(../images/regex.png) !important;
+}
+
+.ux-mongorangemenu-list {
+	background-image: url(../images/List.png) !important;
+}
+
+
+.ux-filter-gt {
+	background-image: url(../images/Greater.png) !important;
+}
+
+.ux-filter-lt {
+	background-image: url(../images/Less.png) !important;
+}
+
+.ux-filter-eq {
+	background-image: url(../images/Equals.png) !important;
+}
+
+.ux-filter-gte {
+	background-image: url(../images/GreaterOrEqual.png) !important;
+}
+
+.ux-filter-lte {
+	background-image: url(../images/LessOrEqual.png) !important;
+}
+
+.ux-filter-ne {
+	background-image: url(../images/DoesNotEqual.png) !important;
+}
+
+.ux-filter-regex {
+	background-image: url(../images/regex.png) !important;
+}
+
+.no-repeat {
+	background-repeat: no-repeat;
+}
+
+.btn-align {
+    width:100%;
+}
