@@ -9,6 +9,7 @@ Es:
 
 
 ProxyPass           /mongo      http://localhost:3000
+
 ProxyPassReverse    /mongo      http://localhost:3000
 
 
